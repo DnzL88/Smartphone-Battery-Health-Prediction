@@ -1,0 +1,7 @@
+Metric,Value
+Best Regression Model,Random Forest Regressor
+R² Score,0.9575
+RMSE,3.6478
+MAE,2.9203
+Best Classification Model,Logistic Regression
+Accuracy,0.9030
