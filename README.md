@@ -186,18 +186,3 @@ Smartphone-Battery-Health-Prediction/
 ├── smartphone_battery_targets.csv
 └── README.md
 ```
-
----
-
-## Future Improvements
-
-Potential improvements include:
-
-- Incorporating deep learning models
-- Hyperparameter optimisation using GridSearchCV
-- Model deployment with Streamlit or Flask
-- Real-time battery health prediction API
-- Cross-validation for improved model robustness
-- SHAP analysis for enhanced model interpretability
-
----
